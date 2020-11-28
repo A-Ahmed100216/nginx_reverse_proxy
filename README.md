@@ -1,6 +1,5 @@
 # Nginx Reverse Proxy
 
-
 ## Introduction
 
 Our app is currently running on port 3000, in our multi vagrant machine.
@@ -52,3 +51,4 @@ export DB_HOST
 # Start the app again
 pm2 start app.js --update-env
 ```
+5. Checks the posts page at http://development.local/posts
