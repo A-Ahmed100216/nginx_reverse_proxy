@@ -52,8 +52,3 @@ export DB_HOST
 pm2 start app.js --update-env
 ```
 5. Checks the posts page at http://development.local/posts
-
-
-
-Adding tests
-testing
